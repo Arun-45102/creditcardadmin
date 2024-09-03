@@ -1,0 +1,19 @@
+{
+  "creditcards": [
+    {
+      "id": "1",
+      "name": "Bank of America - Platinum Card",
+      "bankName": "Bank of America",
+      "description": "Bank of America Offers customers with variety of options",
+      "maxCredit": 8000,
+      "active": true,
+      "annualFee": 0,
+      "interestRate": 13.5,
+      "introOffer": 200,
+      "recommendedScore": "600-800",
+      "numberOf Applications": 40,
+      "createdDate": "26-08-2024",
+      "termsAndConditions": "The Following conditions are applicable for this card"
+    }
+  ]
+}
